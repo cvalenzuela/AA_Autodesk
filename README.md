@@ -1,4 +1,4 @@
-# Architectural Association @ Autodesk Workshop
+# Machine Learning Workshop | Architectural Association @ Autodesk
 
 ## Examples
 
