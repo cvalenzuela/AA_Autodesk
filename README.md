@@ -2,10 +2,6 @@
 
 ## Examples
 
-- [Runway]()
-- [ml5.js]()
-- [Wekinator]()
-
-## Colab Notebooks
-
-
+- [Runway](/runway)
+- [ml5.js](/ml5)
+- [Wekinator](/wekinator)
